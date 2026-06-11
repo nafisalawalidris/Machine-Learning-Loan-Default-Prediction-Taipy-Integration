@@ -9,10 +9,8 @@ body {
     line-height: 1.65;
 }
 
-/* ── Shell ── */
 .app-shell { min-height: 100vh; display: flex; flex-direction: column; }
 
-/* ── Header ── */
 .page-header {
     background: linear-gradient(120deg, #0A1628 0%, #0D47A1 60%, #1565C0 100%);
     border-bottom: 1px solid #1E3A5F;
@@ -43,7 +41,6 @@ body {
     letter-spacing: 0.5px;
 }
 
-/* ── Body ── */
 .page-body {
     flex: 1;
     max-width: 1160px;
@@ -52,7 +49,6 @@ body {
     padding: 24px 20px 60px;
 }
 
-/* ── KPI strip ── */
 .kpi-strip {
     display: flex;
     gap: 14px;
@@ -91,7 +87,6 @@ body {
 .kpi-danger .kpi-val  { color: #F87171 !important; }
 .kpi-safe   .kpi-val  { color: #4ADE80 !important; }
 
-/* ── Section cards ── */
 .section-card {
     background: #111C2D;
     border: 1px solid #1E3A5F;
@@ -118,7 +113,6 @@ body {
     display: block;
 }
 
-/* ── Model cards ── */
 .model-cards { margin-bottom: 20px; }
 
 .model-tile {
@@ -166,7 +160,6 @@ body {
     margin-bottom: 10px;
 }
 
-/* ── Selector row ── */
 .selector-row { margin-top: 4px; }
 
 .active-model-pill {
@@ -180,7 +173,6 @@ body {
     align-items: center;
 }
 
-/* ── Fields ── */
 .field-grid { gap: 18px; }
 
 .field-wrap {
@@ -214,7 +206,6 @@ body {
     outline: none;
 }
 
-/* ── Action bar ── */
 .action-bar {
     display: flex;
     gap: 12px;
@@ -269,7 +260,6 @@ body {
 
 .btn-history button:hover { background: #111C2D !important; }
 
-/* ── Results shell ── */
 .results-shell {
     background: #111C2D;
     border: 1px solid #1E3A5F;
@@ -295,7 +285,6 @@ body {
     to   { opacity: 1; transform: translateY(0); }
 }
 
-/* ── Verdict panel ── */
 .verdict-panel {
     background: #0A1628;
     border: 1px solid #1E3A5F;
@@ -309,7 +298,6 @@ body {
     line-height: 2.6;
 }
 
-/* Decision colours */
 .decision-green  { font-size: 1.4rem !important; font-weight: 900 !important; color: #4ADE80 !important; letter-spacing: 1px; }
 .decision-amber  { font-size: 1.4rem !important; font-weight: 900 !important; color: #FBBF24 !important; letter-spacing: 1px; }
 .decision-orange { font-size: 1.4rem !important; font-weight: 900 !important; color: #FB923C !important; letter-spacing: 1px; }
@@ -334,7 +322,6 @@ body {
     letter-spacing: -2px;
 }
 
-/* Risk band colours */
 .risk-low      { color: #4ADE80 !important; font-size: 1.1rem !important; font-weight: 800 !important; }
 .risk-moderate { color: #A3E635 !important; font-size: 1.1rem !important; font-weight: 800 !important; }
 .risk-elevated { color: #FBBF24 !important; font-size: 1.1rem !important; font-weight: 800 !important; }
@@ -366,7 +353,6 @@ body {
     line-height: 1.5;
 }
 
-/* ── Summary panel ── */
 .summary-panel {
     background: #0A1628;
     border: 1px solid #1E3A5F;
@@ -400,7 +386,6 @@ body {
 
 .sum-model { color: #42A5F5 !important; }
 
-/* ── Insights ── */
 .insights-grid { margin-top: 18px; }
 
 .insight-card {
@@ -429,7 +414,6 @@ body {
     line-height: 2;
 }
 
-/* ── Model comparison ── */
 .comparison-card {
     background: #0A1628;
     border: 1px solid #263548;
@@ -472,7 +456,6 @@ body {
     letter-spacing: 0;
 }
 
-/* ── History ── */
 .history-card {
     background: #111C2D;
     border: 1px solid #1E3A5F;
@@ -490,7 +473,6 @@ body {
     margin-bottom: 14px;
 }
 
-/* ── Footer ── */
 .page-footer {
     background: #050C18;
     color: #1E3A5F;
@@ -501,7 +483,6 @@ body {
     border-top: 1px solid #111C2D;
 }
 
-/* ── Responsive ── */
 @media (max-width: 860px) {
     .page-body { padding: 12px; }
     .kpi-strip { flex-wrap: wrap; }
