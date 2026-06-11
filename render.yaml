@@ -1,12 +1,10 @@
 services:
   - type: web
-    name: loan-default-prediction
+    name: ML-Loan-Default-Prediction-Taipy-Integration
     runtime: python
-    repo: https://github.com/nafisalawalidris/Machine-Learning-Loan-Default-Prediction-Taipy-Integration.git
+    repo: https://github.com/nafisalawalidris/Machine-Learning-Loan-Default-Prediction-Taipy-Integration
     branch: main
-    buildCommand: |
-      pip install --upgrade pip
-      pip install -r requirements.txt
+    buildCommand: pip install -r requirements.txt
     startCommand: python app.py
     plan: free
     region: oregon
