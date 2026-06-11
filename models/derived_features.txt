@@ -1,0 +1,9 @@
+Funded_Ratio_derived
+Investor_Funded_Ratio_derived
+Rate_Squared_derived
+Is_Long_Term_derived
+Has_Delinquency_derived
+Has_Public_Record_derived
+Revolving_Util_derived
+Inquiries_per_Acct_derived
+Total_Debt_derived

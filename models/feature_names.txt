@@ -1,0 +1,187 @@
+Loan Amount
+Funded Amount
+Funded Amount Investor
+Term
+Interest Rate
+Home Ownership
+Debit to Income
+Delinquency - two years
+Inquires - six months
+Open Account
+Public Record
+Revolving Balance
+Revolving Utilities
+Total Accounts
+Total Received Interest
+Total Received Late Fee
+Recoveries
+Collection Recovery Fee
+Collection 12 months Medical
+Last week Pay
+Accounts Delinquent
+Total Collection Amount
+Total Current Balance
+Total Revolving Credit Limit
+Grade_Encoded
+Sub_Grade_Letter_Encoded
+Batch Enrolled_BAT1104812
+Batch Enrolled_BAT1135695
+Batch Enrolled_BAT1184694
+Batch Enrolled_BAT1467036
+Batch Enrolled_BAT1586599
+Batch Enrolled_BAT1761981
+Batch Enrolled_BAT1766061
+Batch Enrolled_BAT1780517
+Batch Enrolled_BAT1930365
+Batch Enrolled_BAT2003848
+Batch Enrolled_BAT2078974
+Batch Enrolled_BAT2136391
+Batch Enrolled_BAT224923
+Batch Enrolled_BAT2252229
+Batch Enrolled_BAT2333412
+Batch Enrolled_BAT2428731
+Batch Enrolled_BAT2522922
+Batch Enrolled_BAT2558388
+Batch Enrolled_BAT2575549
+Batch Enrolled_BAT2803411
+Batch Enrolled_BAT2833642
+Batch Enrolled_BAT3193689
+Batch Enrolled_BAT3461431
+Batch Enrolled_BAT3726927
+Batch Enrolled_BAT3865626
+Batch Enrolled_BAT3873588
+Batch Enrolled_BAT4136152
+Batch Enrolled_BAT4271519
+Batch Enrolled_BAT4351734
+Batch Enrolled_BAT4694572
+Batch Enrolled_BAT4722912
+Batch Enrolled_BAT4808022
+Batch Enrolled_BAT5341619
+Batch Enrolled_BAT5489674
+Batch Enrolled_BAT5525466
+Batch Enrolled_BAT5547201
+Batch Enrolled_BAT5629144
+Batch Enrolled_BAT5714674
+Batch Enrolled_BAT5811547
+Batch Enrolled_BAT5849876
+Batch Enrolled_BAT5924421
+Employment Duration_MORTGAGE
+Employment Duration_OWN
+Employment Duration_RENT
+Verification Status_Not Verified
+Verification Status_Source Verified
+Verification Status_Verified
+Payment Plan_n
+Loan Title_Bathroom
+Loan Title_Bill Consolidation
+Loan Title_Bill Payoff
+Loan Title_Business
+Loan Title_CC
+Loan Title_CC Consolidation
+Loan Title_CC Loan
+Loan Title_CC Refi
+Loan Title_CC Refinance
+Loan Title_CC consolidation
+Loan Title_CC-Refinance
+Loan Title_CONSOLIDATE
+Loan Title_CONSOLIDATION
+Loan Title_Car Loan
+Loan Title_Car financing
+Loan Title_Card Consolidation
+Loan Title_Cards
+Loan Title_Consolidate
+Loan Title_Consolidated
+Loan Title_Consolidation
+Loan Title_Consolidation Loan
+Loan Title_Credit
+Loan Title_Credit Card
+Loan Title_Credit Card Consolidation
+Loan Title_Credit Card Debt
+Loan Title_Credit Card Loan
+Loan Title_Credit Card Paydown
+Loan Title_Credit Card Payoff
+Loan Title_Credit Card Refi
+Loan Title_Credit Card Refinance
+Loan Title_Credit Card Refinance Loan
+Loan Title_Credit Card consolidation
+Loan Title_Credit Cards
+Loan Title_Credit Consolidation
+Loan Title_Credit Loan
+Loan Title_Credit card pay off
+Loan Title_Credit card payoff
+Loan Title_Credit card refinance
+Loan Title_Credit card refinancing
+Loan Title_Credit payoff
+Loan Title_DEBT CONSOLIDATION
+Loan Title_Debt
+Loan Title_Debt Consolidation
+Loan Title_Debt Consolidation 2013
+Loan Title_Debt Consolidation Loan
+Loan Title_Debt Free
+Loan Title_Debt Loan
+Loan Title_Debt Payoff
+Loan Title_Debt Reduction
+Loan Title_Debt consolidation
+Loan Title_Debt payoff
+Loan Title_Dept consolidation
+Loan Title_Freedom
+Loan Title_Get Debt Free
+Loan Title_Getting Ahead
+Loan Title_Green loan
+Loan Title_Home
+Loan Title_Home Improvement
+Loan Title_Home Improvement Loan
+Loan Title_Home buying
+Loan Title_Home improvement
+Loan Title_Home loan
+Loan Title_House
+Loan Title_Lending Club
+Loan Title_Lending loan
+Loan Title_Loan
+Loan Title_Loan 1
+Loan Title_Loan Consolidation
+Loan Title_MYLOAN
+Loan Title_Major purchase
+Loan Title_Medical
+Loan Title_Medical expenses
+Loan Title_Medical loan
+Loan Title_Moving and relocation
+Loan Title_My Loan
+Loan Title_Other
+Loan Title_Pay Off
+Loan Title_Payoff
+Loan Title_Personal
+Loan Title_Personal Loan
+Loan Title_Personal loan
+Loan Title_Pool
+Loan Title_Refinance
+Loan Title_Refinance Loan
+Loan Title_Vacation
+Loan Title_Wedding Loan
+Loan Title_bills
+Loan Title_cards
+Loan Title_conso
+Loan Title_consolidate
+Loan Title_consolidation
+Loan Title_consolidation loan
+Loan Title_credit card
+Loan Title_credit card consolidation
+Loan Title_credit card refinance
+Loan Title_credit pay off
+Loan Title_debt
+Loan Title_debt consolidation
+Loan Title_debt consolidation loan
+Loan Title_debt loan
+Loan Title_get out of debt
+Loan Title_home improvement
+Loan Title_loan1
+Loan Title_pay off bills
+Loan Title_payoff
+Loan Title_personal
+Loan Title_refi
+Loan Title_relief
+Loan Title_vacation
+Initial List Status_f
+Initial List Status_w
+Application Type_INDIVIDUAL
+Application Type_JOINT

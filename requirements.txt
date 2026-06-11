@@ -1,0 +1,10 @@
+﻿taipy==4.1.1
+pandas==3.0.3
+numpy==2.4.6
+scikit-learn==1.9.0
+xgboost==3.2.0
+joblib==1.5.3
+imbalanced-learn==0.14.1
+python-dotenv==1.0.1
+python-dateutil==2.9.0.post0
+gunicorn==26.0.0

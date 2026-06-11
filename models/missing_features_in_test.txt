@@ -1,0 +1,72 @@
+Application Type_JOINT
+Batch Enrolled_BAT1104812
+Batch Enrolled_BAT1135695
+Batch Enrolled_BAT1184694
+Batch Enrolled_BAT1586599
+Batch Enrolled_BAT1761981
+Batch Enrolled_BAT1766061
+Batch Enrolled_BAT1780517
+Batch Enrolled_BAT1930365
+Batch Enrolled_BAT2078974
+Batch Enrolled_BAT2136391
+Batch Enrolled_BAT2252229
+Batch Enrolled_BAT2333412
+Batch Enrolled_BAT2803411
+Batch Enrolled_BAT2833642
+Batch Enrolled_BAT3461431
+Batch Enrolled_BAT3726927
+Batch Enrolled_BAT3873588
+Batch Enrolled_BAT4136152
+Batch Enrolled_BAT4271519
+Batch Enrolled_BAT4351734
+Batch Enrolled_BAT4694572
+Batch Enrolled_BAT4808022
+Batch Enrolled_BAT5341619
+Batch Enrolled_BAT5489674
+Batch Enrolled_BAT5525466
+Batch Enrolled_BAT5547201
+Batch Enrolled_BAT5629144
+Batch Enrolled_BAT5714674
+Batch Enrolled_BAT5811547
+Batch Enrolled_BAT5849876
+Batch Enrolled_BAT5924421
+Employment Duration_MORTGAGE
+Employment Duration_OWN
+Employment Duration_RENT
+Initial List Status_f
+Initial List Status_w
+Loan Title_CC
+Loan Title_CC Consolidation
+Loan Title_CONSOLIDATE
+Loan Title_Card Consolidation
+Loan Title_Credit Card Consolidation
+Loan Title_Credit Card Refinance
+Loan Title_Credit card pay off
+Loan Title_Credit card refinance
+Loan Title_Credit card refinancing
+Loan Title_Debt Consolidation Loan
+Loan Title_Debt Reduction
+Loan Title_Debt consolidation
+Loan Title_Getting Ahead
+Loan Title_Home Improvement Loan
+Loan Title_Lending Club
+Loan Title_Loan 1
+Loan Title_Moving and relocation
+Loan Title_My Loan
+Loan Title_Other
+Loan Title_Personal
+Loan Title_Personal loan
+Loan Title_Refinance Loan
+Loan Title_Wedding Loan
+Loan Title_bills
+Loan Title_credit card consolidation
+Loan Title_debt consolidation
+Loan Title_debt consolidation loan
+Loan Title_debt loan
+Loan Title_home improvement
+Loan Title_personal
+Payment Plan_n
+Sub_Grade_Letter_Encoded
+Verification Status_Not Verified
+Verification Status_Source Verified
+Verification Status_Verified

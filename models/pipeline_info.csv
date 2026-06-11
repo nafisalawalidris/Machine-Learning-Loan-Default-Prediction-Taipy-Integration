@@ -1,0 +1,2 @@
+n_original_features,n_categorical_encoded,n_derived_features,n_selected_features,feature_selection_threshold,scaling_method
+187,0,9,84,0.001,StandardScaler

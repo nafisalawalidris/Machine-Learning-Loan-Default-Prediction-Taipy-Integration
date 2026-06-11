@@ -1,0 +1,197 @@
+Feature,Importance
+Verification Status_Source Verified,0.006733352525706948
+Employment Duration_MORTGAGE,0.006448903888498503
+Initial List Status_f,0.0062230289605489375
+Verification Status_Not Verified,0.006153542218926278
+Verification Status_Verified,0.005421257980726013
+Employment Duration_RENT,0.0043720182701276755
+Initial List Status_w,0.004325474155007614
+Loan Title_Credit card refinancing,0.004203277873213507
+Loan Title_Debt consolidation,0.0040760117281510855
+Employment Duration_OWN,0.003993890583173565
+Batch Enrolled_BAT4808022,0.003873691410745339
+Delinquency - two years,0.0037417023640649028
+Batch Enrolled_BAT1780517,0.003437693953661558
+Batch Enrolled_BAT2333412,0.0033169640040484616
+Loan Title_debt loan,0.0031823785735112242
+Inquiries_per_Acct_derived,0.003105459308117231
+Public Record,0.003016777830727957
+Batch Enrolled_BAT2833642,0.0029249839988796378
+Batch Enrolled_BAT1930365,0.0029246418427739673
+Batch Enrolled_BAT5341619,0.002885886767360013
+Sub_Grade_Letter_Encoded,0.002828787750078776
+Batch Enrolled_BAT2078974,0.002768576278621593
+Batch Enrolled_BAT3873588,0.002640146524728104
+Loan Title_Personal loan,0.002482335150572501
+Batch Enrolled_BAT1766061,0.002456224376280458
+Batch Enrolled_BAT2252229,0.002432099765221407
+Batch Enrolled_BAT5849876,0.0023771248652220134
+Batch Enrolled_BAT1104812,0.002339133800760118
+Loan Title_Other,0.0022315294750323567
+Batch Enrolled_BAT4351734,0.002200531902531333
+Loan Title_Debt Consolidation Loan,0.002151505852848734
+Loan Title_My Loan,0.0021374973850019074
+Batch Enrolled_BAT5629144,0.0020863578024412632
+Inquires - six months,0.0020295597718855696
+Batch Enrolled_BAT5525466,0.0020155846884690742
+Batch Enrolled_BAT5489674,0.0019686336909243707
+Batch Enrolled_BAT2803411,0.0019444105377011134
+Batch Enrolled_BAT5924421,0.0019336156820788375
+Batch Enrolled_BAT5714674,0.0019075480695327496
+Batch Enrolled_BAT4136152,0.0018301492341303849
+Loan Title_Card Consolidation,0.0017760025843291949
+Collection 12 months Medical,0.0017671338119540358
+Loan Title_Moving and relocation,0.0017593936678867994
+Total Received Interest,0.0017509792538061841
+Batch Enrolled_BAT4694572,0.0017448594811451112
+Loan Title_Home Improvement Loan,0.0017437905830963718
+Batch Enrolled_BAT2136391,0.0017059565646639907
+Batch Enrolled_BAT3726927,0.0016906761575385953
+Loan Title_Debt Reduction,0.0016784906242428566
+Batch Enrolled_BAT5547201,0.0016352198520708239
+Loan Title_credit card consolidation,0.0016187227883082134
+Investor_Funded_Ratio_derived,0.0016056447769536852
+Loan Title_Credit card pay off,0.0015620028668594799
+Batch Enrolled_BAT5811547,0.001556640354783756
+Batch Enrolled_BAT4271519,0.0015441055773095513
+Loan Title_debt consolidation,0.001512707111390954
+Total Collection Amount,0.0015043256801936522
+Loan Title_Lending Club,0.001493980113191462
+Loan Title_Credit Card Consolidation,0.0014795970224084076
+Loan Title_Credit Card Refinance,0.0014706735898113443
+Loan Title_CC,0.0014614872598173179
+Has_Public_Record_derived,0.0014249743934986459
+Loan Title_CC Consolidation,0.001421002475973987
+Loan Title_CONSOLIDATE,0.0013579386219761957
+Loan Title_personal,0.0013321540694162248
+Batch Enrolled_BAT1184694,0.0013011197535426344
+Loan Title_debt consolidation loan,0.0012926986286228015
+Batch Enrolled_BAT3461431,0.001253307848635199
+Loan Title_Getting Ahead,0.001218701495942609
+Loan Title_Personal,0.001203799359725366
+Loan Title_home improvement,0.0011713152917114389
+Batch Enrolled_BAT1586599,0.001161653747653979
+Loan Title_Loan 1,0.001159369073952421
+Loan Title_Wedding Loan,0.0011532786655417127
+Batch Enrolled_BAT1761981,0.001148700078988929
+Application Type_JOINT,0.0011249855438120182
+Loan Title_Refinance Loan,0.001122404470957017
+Payment Plan_n,0.0011206439435420545
+Loan Title_bills,0.0011058547708009403
+Batch Enrolled_BAT1135695,0.0010380125626436865
+Loan Title_Credit card refinance,0.0010304225696078362
+Accounts Delinquent,0.0010106216314080818
+Loan Title_Debt Loan,0.000974071728968795
+Loan Amount,0.0009604877173550186
+Loan Title_conso,0.0009572865138998132
+Loan Title_credit card refinance,0.0009523512776969945
+Loan Title_Bathroom,0.0009518605783822576
+Loan Title_Car Loan,0.0009443425483601775
+Loan Title_Credit payoff,0.0009158522093049015
+Loan Title_Get Debt Free,0.0008884705297389495
+Batch Enrolled_BAT2428731,0.000872526393335793
+Funded Amount,0.0008540417381970311
+Loan Title_loan1,0.0007949731650893632
+Batch Enrolled_BAT3865626,0.0007840970517536405
+Loan Title_Credit,0.0007742551069220838
+Collection Recovery Fee,0.0007736881217612623
+Loan Title_Credit Card Loan,0.0007716805589172981
+Batch Enrolled_BAT3193689,0.0007372242784586813
+Total Current Balance,0.0007309234297812051
+Loan Title_Credit Card Debt,0.0007104464898111118
+Revolving Utilities,0.000704909072167581
+Application Type_INDIVIDUAL,0.0006864239050980991
+Loan Title_credit card,0.0006828434672581096
+Loan Title_Car financing,0.0006619426168033016
+Batch Enrolled_BAT2522922,0.0006315332282440522
+Loan Title_Business,0.0006090343887807936
+Funded Amount Investor,0.0005686657236803061
+Loan Title_Loan,0.0005639662862444439
+Loan Title_Loan Consolidation,0.0005577845140274373
+Batch Enrolled_BAT2558388,0.0005430665609971186
+Term,0.0005392715640843981
+Loan Title_Debt,0.0005103958043672918
+Batch Enrolled_BAT4722912,0.0005101435963210665
+Loan Title_MYLOAN,0.0005021306889232413
+Loan Title_Cards,0.0004959881044812597
+Loan Title_Dept consolidation,0.0004937146657522096
+Batch Enrolled_BAT1467036,0.0004503760453897776
+Loan Title_Credit Card Refinance Loan,0.00042854644069900694
+Loan Title_Green loan,0.0004283743493962433
+Recoveries,0.00042806458987398877
+Loan Title_Credit Card Payoff,0.0004203628422145833
+Loan Title_Credit Card,0.0004055925678811967
+Loan Title_Home loan,0.000398453130348253
+Total Accounts,0.00037846049828749173
+Loan Title_Vacation,0.00037131030156389855
+Loan Title_Freedom,0.0003596465887110156
+Loan Title_consolidation loan,0.0003345522018323166
+Batch Enrolled_BAT224923,0.0003286849718275864
+Loan Title_Major purchase,0.00032513982320026
+Loan Title_cards,0.00031199232392720155
+Has_Delinquency_derived,0.00030669084840839744
+Loan Title_CC Loan,0.00030559965615162277
+Loan Title_Home improvement,0.00017109454494268483
+Loan Title_Debt Consolidation 2013,0.00013941743253287342
+Last week Pay,0.00012077555684131269
+Loan Title_Home buying,9.958471591353657e-05
+Batch Enrolled_BAT2575549,9.066193112339249e-05
+Revolving_Util_derived,7.930682108758802e-05
+Loan Title_Debt Payoff,7.739772534032241e-05
+Loan Title_relief,6.68877846670135e-05
+Home Ownership,2.1384137957936034e-05
+Loan Title_Credit Card Refi,1.5323926174204416e-05
+Loan Title_payoff,1.08159539637942e-05
+Loan Title_Consolidation,9.500740369094984e-06
+Revolving Balance,9.40041553598725e-06
+Loan Title_Personal Loan,4.0446629490098474e-07
+Grade_Encoded,2.002974006654057e-07
+Batch Enrolled_BAT2003848,0.0
+Total Received Late Fee,0.0
+Interest Rate,0.0
+Debit to Income,0.0
+Open Account,0.0
+Total Revolving Credit Limit,0.0
+Loan Title_Bill Payoff,0.0
+Loan Title_Bill Consolidation,0.0
+Loan Title_CC-Refinance,0.0
+Loan Title_CC consolidation,0.0
+Loan Title_CC Refinance,0.0
+Loan Title_CC Refi,0.0
+Loan Title_Credit Card Paydown,0.0
+Loan Title_Consolidate,0.0
+Loan Title_CONSOLIDATION,0.0
+Loan Title_Consolidation Loan,0.0
+Loan Title_Consolidated,0.0
+Loan Title_Home Improvement,0.0
+Loan Title_Home,0.0
+Loan Title_Debt payoff,0.0
+Loan Title_Debt Consolidation,0.0
+Loan Title_Debt Free,0.0
+Loan Title_Credit Loan,0.0
+Loan Title_Credit card payoff,0.0
+Loan Title_DEBT CONSOLIDATION,0.0
+Loan Title_Credit Consolidation,0.0
+Loan Title_Credit Cards,0.0
+Loan Title_Credit Card consolidation,0.0
+Loan Title_House,0.0
+Loan Title_Lending loan,0.0
+Loan Title_Medical,0.0
+Loan Title_Medical expenses,0.0
+Loan Title_Medical loan,0.0
+Loan Title_consolidate,0.0
+Loan Title_Refinance,0.0
+Loan Title_Payoff,0.0
+Loan Title_Pool,0.0
+Loan Title_Pay Off,0.0
+Loan Title_consolidation,0.0
+Loan Title_credit pay off,0.0
+Loan Title_debt,0.0
+Loan Title_pay off bills,0.0
+Loan Title_get out of debt,0.0
+Loan Title_refi,0.0
+Loan Title_vacation,0.0
+Funded_Ratio_derived,0.0
+Rate_Squared_derived,0.0
+Is_Long_Term_derived,0.0
+Total_Debt_derived,0.0

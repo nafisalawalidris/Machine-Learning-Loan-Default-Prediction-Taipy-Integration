@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: loan-default-prediction
+    runtime: python
+    repo: https://github.com/nafisalawalidris/Machine-Learning-Loan-Default-Prediction-Taipy-Integration.git
+    branch: main
+    buildCommand: |
+      pip install --upgrade pip
+      pip install -r requirements.txt
+    startCommand: python app.py
+    plan: free
+    region: oregon
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: RENDER
+        value: "true"

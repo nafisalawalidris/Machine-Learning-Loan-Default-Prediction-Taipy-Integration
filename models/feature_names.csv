@@ -1,0 +1,21 @@
+feature_name
+Is_Long_Term_derived
+Term
+Initial List Status
+Loan Title
+Verification Status
+Employment Duration
+Has_Delinquency_derived
+Grade
+Total Received Interest
+Inquiries_per_Acct_derived
+Total_Debt_derived
+Inquires - six months
+Payment Plan
+Accounts Delinquent
+Batch Enrolled
+Funded_Ratio_derived
+Investor_Funded_Ratio_derived
+Rate_Squared_derived
+Has_Public_Record_derived
+Revolving_Util_derived

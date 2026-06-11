@@ -1,0 +1,12 @@
+Metric,Value
+Model Type,RandomForestClassifier
+Accuracy,0.6400
+Precision,0.1071
+Recall,0.3942
+Specificity,0.6650
+F1-Score,0.1684
+ROC-AUC,0.5384
+Average Precision,0.1034
+False Positive Rate,0.3350
+False Negative Rate,0.6058
+Optimal Threshold,0.4848
